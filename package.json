@@ -36,5 +36,8 @@
       "bcrypt",
       "sharp"
     ]
+  },
+  "engines": {
+    "node": "24.x"
   }
 }
